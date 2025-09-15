@@ -10,4 +10,4 @@
 
 ✨ Cada projeto é um novo passo na minha evolução como desenvolvedora.  
 
-📌 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/seu-usuario) 🚀
+📌 [LinkedIn](https://www.linkedin.com/in/katherine-quandt-1a5b69234) 
