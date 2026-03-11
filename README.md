@@ -1,9 +1,5 @@
 # Olá, sou a Katherine! 👋
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=A%20tecnologia%20move%20o%20mundo.%20A%20criatividade%20o%20torna%20belo." alt="Frase Motivacional" />
-</div>
-
 ### 💻 Desenvolvedora Front-End em Evolução | Freelancer WordPress & Elementor
 
 Sou uma entusiasta da tecnologia que acredita na união entre código limpo e design intuitivo. Recentemente, concluí os **5 módulos da especialização em HTML5 e CSS3** (pelo Curso em Vídeo), o que me deu uma base sólida em **Design Responsivo**, **Mobile First** e **Semântica Web**.
